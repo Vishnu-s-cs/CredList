@@ -1,0 +1,24 @@
+
+:global(p){
+    font-weight: bold;
+}
+:global(button){
+    background-color: white;
+    border-radius: 5px;
+    margin-top: .5rem;
+}
+.month{
+    display: inline;
+    
+}
+
+.chart{
+    width: 80%;
+}
+@media only screen and (max-width: 600px) {
+    .chart{
+        width: 100%;
+        height: 100%;
+    }
+    
+  }

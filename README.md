@@ -1,3 +1,7 @@
+# Hosted link
+
+[Link to the live application](https://6435bf6b2d1c67412307c085--serene-dasik-8c4e3e.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

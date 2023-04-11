@@ -1,0 +1,12 @@
+{
+  "ACCOUNT": "Account",
+  "COUNT": "Count :",
+  "BALANCE": "Balance",
+  "BALANCE_HISTORY":"Balance History",
+  "INIT_BALANCE":"Initial Balance",
+  "MONTHLY_PAYMENT":"Monthly Payment",
+  "CHART_HEADER":"Balance of accounts after a number of months",
+  "BALANCE_PAYMENT":"Balance Payment",
+  "SUBMIT":"Submit"
+
+}
